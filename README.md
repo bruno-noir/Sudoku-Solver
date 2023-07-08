@@ -49,7 +49,7 @@ git clone https://github.com/dhhruv/Sudoku-Solver.git
 ```
 **OR**
 - Zip Download the Repository and Extract it's contents.
-- Now run the [SudokuGUI](https://github.com/dhhruv/Sudoku-Solver/blob/master/SudokuGUI.py) file directly in your Terminal using
+- Now run the [SudokuGUI](https://github.com/bruno-noir/Sudoku-Solver/blob/master/SudokuGUI.py) file directly in your Terminal using
 ```
 python SudokuGUI.py
 ```
